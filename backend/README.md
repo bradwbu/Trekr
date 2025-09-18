@@ -56,7 +56,7 @@ sudo apt install git -y
 ### 3. Deploy Application
 ```bash
 # Clone repository to your server
-git clone <your-repo-url> /var/www/trekr-api
+git clone https://github.com/bradwbu/Trekr /var/www/trekr-api
 cd /var/www/trekr-api/backend
 
 # Make deploy script executable

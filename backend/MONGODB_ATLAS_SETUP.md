@@ -55,7 +55,8 @@ This guide will walk you through setting up MongoDB Atlas for your Trekr app's c
 5. Version: **4.1 or later**
 6. Copy the connection string (looks like):
    ```
-   mongodb+srv://trekr-api:<password>@trekr-production.xxxxx.mongodb.net/?retryWrites=true&w=majority
+   mongodb+srv://trekr-api:<password>@trekr-production.xxxxx.mongodb.net/?retryWrites=true&w=majority mongodb+srv://trekr-api:Givenchy*8652@trekr-production.0wcy5u.mongodb.net/?retryWrites=true&w=majority&appName=trekr-production
+
    ```
 
 ## 5. Configure Environment Variables
